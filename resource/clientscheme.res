@@ -2658,6 +2658,32 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
+		GravityBook
+		{
+			"1"
+			{
+				"name"		"Gravity-Book
+				"tall"		"16"
+				"antialias"	"1"
+			}		
+		}
+		
+		GravityLight
+		{
+			"1"
+				"name"		"Gravity-Light"
+				"tall"		"16"
+				"antialias"	"1"
+		}
+		
+		GravityUltraLight
+		{
+			"1"
+				"name"		"Gravity-UltraLight"
+				"tall"		"16"
+				"antialias"	"1"
+		}
 	}
 
 	//
