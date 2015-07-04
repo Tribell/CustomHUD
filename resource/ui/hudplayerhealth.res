@@ -81,12 +81,12 @@
 		"ypos"			"55"	[$X360]
 		"zpos"			"5"
 		"wide"			"50"
-		"tall"			"18"
+		"tall"			"21"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"HudClassHealth"
+		"font"			"GravityBold16"
 		"fgcolor"		"TanDark"
 	}								
 	"PlayerStatusBleedImage"
