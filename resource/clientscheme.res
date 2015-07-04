@@ -2598,7 +2598,7 @@ Scheme
 				"additive"	"0"
 			}
 		}
-		
+
 		GravityBold12
 		{
 			"1"
@@ -2659,30 +2659,184 @@ Scheme
 			}
 		}
 		
-		GravityBook
+		GravityBook12
 		{
 			"1"
 			{
-				"name"		"Gravity-Book
-				"tall"		"16"
-				"antialias"	"1"
-			}		
+				"name"		"Gravity-Book"
+				"tall"		"12"
+				"antialias" "1"
+			}
 		}
 		
-		GravityLight
+		GravityBook16
 		{
 			"1"
+			{
+				"name"		"Gravity-Book"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		GravityBook24
+		{
+			"1"
+			{
+				"name"		"Gravity-Book"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		GravityBook32
+		{
+			"1"
+			{
+				"name"		"Gravity-Book"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		GravityBook42
+		{
+			"1"
+			{
+				"name"		"Gravity-Book"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		GravityBook48
+		{
+			"1"
+			{
+				"name"		"Gravity-Book"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		GravityLight12
+		{
+			"1"
+			{
+				"name"		"Gravity-Light"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		GravityLight16
+		{
+			"1"
+			{
 				"name"		"Gravity-Light"
 				"tall"		"16"
-				"antialias"	"1"
+				"antialias" "1"
+			}
 		}
 		
-		GravityUltraLight
+		GravityLight24
 		{
 			"1"
+			{
+				"name"		"Gravity-Light"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		GravityLight32
+		{
+			"1"
+			{
+				"name"		"Gravity-Light"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		GravityLight42
+		{
+			"1"
+			{
+				"name"		"Gravity-Light"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		GravityLight48
+		{
+			"1"
+			{
+				"name"		"Gravity-Light"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		GravityUltraLight12
+		{
+			"1"
+			{
+				"name"		"Gravity-UltraLight"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		GravityUltraLight16
+		{
+			"1"
+			{
 				"name"		"Gravity-UltraLight"
 				"tall"		"16"
-				"antialias"	"1"
+				"antialias" "1"
+			}
+		}
+		
+		GravityUltraLight24
+		{
+			"1"
+			{
+				"name"		"Gravity-UltraLight"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		GravityUltraLight32
+		{
+			"1"
+			{
+				"name"		"Gravity-UltraLight"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		GravityUltraLight42
+		{
+			"1"
+			{
+				"name"		"Gravity-UltraLight"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		GravityUltraLight48
+		{
+			"1"
+			{
+				"name"		"Gravity-UltraLight"
+				"tall"		"48"
+				"antialias" "1"
+			}
 		}
 	}
 
